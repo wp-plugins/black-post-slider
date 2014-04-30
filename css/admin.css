@@ -1,0 +1,29 @@
+
+/*
+ * CSS for the Featured Post plugin, the admin part.
+ * 
+ */
+
+/* Metabox */
+.featured-post {
+  font-size: 11px;
+  margin: 6px 6px 8px;
+  padding: 8px;
+  background: #f1f1f1;
+  border: 1px solid #dfdfdf;
+  cursor: pointer;
+
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+.featured-post-title {
+  padding: 0 30px 0 0;
+}
+.featured-post a {
+  float: right;
+}
+
+.featured-post-select {
+	min-width: 500px;
+}

@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-18 12:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: featured-post-slider-admin.php:9 featured-post-slider-admin.php:10
+#: featured-post-slider-admin.php:20
+msgid "Featured Posts"
+msgstr ""
+
+#: featured-post-slider-admin.php:11 featured-post-slider-admin.php:12
+#: featured-post-slider-admin.php:14
+msgid "New Featured Post"
+msgstr ""
+
+#: featured-post-slider-admin.php:13
+msgid "Edit Featured Post"
+msgstr ""
+
+#: featured-post-slider-admin.php:15
+msgid "View Featured Post"
+msgstr ""
+
+#: featured-post-slider-admin.php:16
+msgid "Search Featured Post"
+msgstr ""
+
+#: featured-post-slider-admin.php:17
+msgid "No Featured Post found"
+msgstr ""
+
+#: featured-post-slider-admin.php:18
+msgid "No Featured Posts found in the thrash"
+msgstr ""
+
+#: featured-post-slider-admin.php:38 featured-post-slider-admin.php:39
+#: featured-post-slider-admin.php:54
+msgid "Category"
+msgstr ""
+
+#: featured-post-slider-admin.php:40
+msgid "Search Category"
+msgstr ""
+
+#: featured-post-slider-admin.php:41
+msgid "Popular Categories"
+msgstr ""
+
+#: featured-post-slider-admin.php:42
+msgid "All Categories"
+msgstr ""
+
+#: featured-post-slider-admin.php:43
+msgid "Parent Category"
+msgstr ""
+
+#: featured-post-slider-admin.php:44
+msgid "Edit Category"
+msgstr ""
+
+#: featured-post-slider-admin.php:45
+msgid "Update Category"
+msgstr ""
+
+#: featured-post-slider-admin.php:46
+msgid "Add Category"
+msgstr ""
+
+#: featured-post-slider-admin.php:47
+msgid "New Category"
+msgstr ""
+
+#: featured-post-slider-admin.php:48
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: featured-post-slider-admin.php:49
+msgid "Add or remove Categories"
+msgstr ""
+
+#: featured-post-slider-admin.php:50
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: featured-post-slider-admin.php:87
+msgid "Show all in "
+msgstr ""
+
+#: featured-post-slider-admin.php:121 featured-post-slider-admin.php:376
+msgid "Settings"
+msgstr ""
+
+#: featured-post-slider-admin.php:122
+msgid "Selected Featured Post"
+msgstr ""
+
+#: featured-post-slider-admin.php:143
+msgid "Delete"
+msgstr ""
+
+#: featured-post-slider-admin.php:155 featured-post-slider-admin.php:178
+msgid "Select"
+msgstr ""
+
+#: featured-post-slider-admin.php:194
+msgid "Select the featured post from the list."
+msgstr ""
+
+#: featured-post-slider-admin.php:249
+msgid "Featured Post Slider Settings"
+msgstr ""
+
+#: featured-post-slider-admin.php:258
+msgid "Slider Effect Options"
+msgstr ""
+
+#: featured-post-slider-admin.php:262
+msgid "Slide Effect:"
+msgstr ""
+
+#: featured-post-slider-admin.php:281
+msgid "Speed:"
+msgstr ""
+
+#: featured-post-slider-admin.php:288
+msgid "Timeout:"
+msgstr ""
+
+#: featured-post-slider-admin.php:295
+msgid "CSS Options"
+msgstr ""
+
+#: featured-post-slider-admin.php:299
+msgid "Border color:"
+msgstr ""
+
+#: featured-post-slider-admin.php:306
+msgid "Gradient top color:"
+msgstr ""
+
+#: featured-post-slider-admin.php:313
+msgid "Gradient bottom color:"
+msgstr ""
+
+#: featured-post-slider-admin.php:320
+msgid "Text color:"
+msgstr ""
+
+#: featured-post-slider-admin.php:329
+msgid "Set to Defaults"
+msgstr ""
+
+#: featured-post-slider-admin.php:330
+msgid "Save"
+msgstr ""
+
+#: featured-post-slider-frontend.php:76
+msgid "Visit the post: "
+msgstr ""
