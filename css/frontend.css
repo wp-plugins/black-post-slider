@@ -1,0 +1,153 @@
+
+/*
+ * CSS for the Featured Post plugin, the frontend part.
+ * 
+ */
+
+
+.featured_posts {
+	overflow: hidden;
+	height: 400px; /* start height at loadtime */
+	clear: both;
+}
+
+
+/* Images on the left */
+.featured_images {
+	float: left;
+	width: 70%;
+}
+.featured_images img {
+	width: 100%;
+	height: auto;
+}
+
+
+/* Titles on the right */
+.featured_titles {
+	float: right;
+	width: 30%;
+	height: 100%;
+	background-color: #666;
+	overflow: hidden;
+}
+.featured_title {
+	height: 20%;
+	width: 99.5%;
+	margin-left: 0.5%; /* acts as a border-left */
+	background-color: #333;
+}
+.count_100 .featured_title {
+	height: 100%;
+}
+.count_50 .featured_title {
+	height: 50%;
+}
+.count_33 .featured_title {
+	height: 33.33%;
+}
+.count_25 .featured_title {
+	height: 25%;
+}
+.count_20 .featured_title {
+	height: 20%;
+}
+.count_16 .featured_title {
+	height: 16.66%;
+}
+.count_14 .featured_title {
+	height: 14.3%;
+}
+.count_12 .featured_title {
+	height: 12.46%;
+}
+.count_11 .featured_title {
+	height: 11.1%;
+}
+.count_10 .featured_title {
+	height: 9.97%;
+}
+
+.featured_title {
+	opacity: 0.6;
+}
+.featured_title:first-child {
+	opacity: 1;
+}
+
+.featured_title_inside {
+	background-color: #333;
+	background-image: -moz-linear-gradient(top, #444, #222);
+	background-image: -ms-linear-gradient(top, #444, #222);
+	background-image: -webkit-linear-gradient(top, #444, #222);
+	background-image: -o-linear-gradient(top, #444, #222);
+	background-image: linear-gradient(top, #444, #222);
+	height: 100%;
+	width: 100%;
+	overflow: hidden;	
+}
+.featured_title_more_inside {
+	border-top: 2px solid #666;
+	width: 100%;
+	height: 99%;
+}
+.featured_title h4 {
+	color: #eee;
+	width: 86%;
+	padding: 7% 7%;
+	margin: 0;
+	font-size: 16px;
+	line-height: 1.1em;
+	font-weight: bold;
+}
+.count_100 .featured_title h4 {
+	padding: 8% 7%;
+	line-height: 1.3em;
+}
+.count_50 .featured_title h4 {
+	padding: 8% 7%;
+	line-height: 1.3em;
+}
+.count_33 .featured_title h4 {
+	padding: 8% 7%;
+	line-height: 1.3em;
+}
+.count_25 .featured_title h4 {
+	padding: 7% 7%;
+	line-height: 1.3em;
+}
+.count_20 .featured_title h4 {
+	padding: 6% 7%;
+	line-height: 1.2em;
+}
+.count_16 .featured_title h4 {
+	padding: 5% 7%;
+	line-height: 1.2em;
+}
+.count_14 .featured_title h4 {
+	padding: 4% 7%;
+	line-height: 1.1em;
+}
+.count_12 .featured_title h4 {
+	padding: 3% 7%;
+	line-height: 1.1em;
+}
+.count_11 .featured_title h4 {
+	padding: 2% 7%;
+	line-height: 1.0em;
+}
+.count_10 .featured_title h4 {
+	padding: 1.4% 7%;
+	line-height: 1.0em;
+}
+.featured_title h4 a {
+	color: #eee;
+	padding: 0 5px;
+}
+
+
+/* Extra */
+.clear {
+	clear: both;
+}
+
