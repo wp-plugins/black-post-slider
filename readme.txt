@@ -42,7 +42,7 @@ Features
 5. For each featured post, select a featured image.
 6. Optionally select a real post to link to.
 
-== How to display the slider on your website ==
+= How to display the slider on your website =
 
 You can place the following code in your template file, like header.php:
 
