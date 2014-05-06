@@ -3,7 +3,7 @@
 Plugin Name: Black Post Slider
 Plugin URI: http://products.zenoweb.nl/free-wordpress-plugins/black-post-slider/
 Description: Shows a Slider with Featured Posts.
-Version: 1.0
+Version: 1.0.1
 Author: Marcel Pol
 Author URI: http://zenoweb.nl/
 License: GPLv2 or later

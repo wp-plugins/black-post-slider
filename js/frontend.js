@@ -8,15 +8,28 @@
  */
 
 jQuery( window ).resize(function() {
-	var height = jQuery( '.featured_images img:first-child' ).height();
-	height = (height - 1); // avoid rounding error
-	jQuery('.featured_posts').css( 'height', height + "px" );
+	black_post_set_height();
 });
+
 jQuery( document ).ready(function() {
+	black_post_set_height();
+});
+
+var black_post_counter = 0;
+
+function black_post_set_height() {
+	black_post_counter++;
 	var height = jQuery( '.featured_images img:first-child' ).height();
+	if (height == 0) {
+		// Ensures it's checked at least 10 times
+		if (black_post_counter < 10) {
+			setTimeout('black_post_set_height()', 200);
+		}
+	}
 	height = (height - 1); // avoid rounding error
 	jQuery('.featured_posts').css( 'height', height + "px" );
-});
+}
+
 
 
 /*
