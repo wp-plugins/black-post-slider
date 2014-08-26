@@ -110,8 +110,9 @@ The width of the images is set fixed to 70%, while the titles have 30%.
 == Changelog ==
 
 = 1.0.1 =
+* 2014-05-06
 * Fix setting the height at first load
 
 = 1.0 =
+* 2014-04-30
 * Initial version
-
