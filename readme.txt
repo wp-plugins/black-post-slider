@@ -32,7 +32,7 @@ Features
 = Languages =
 
 * nl_NL [Marcel Pol](http://zenoweb.nl)
-* sr_RS [Ogi Djuraskovic] (http://firstsiteguide.com)
+* sr_RS [Ogi Djuraskovic](http://firstsiteguide.com)
 
 == Installation ==
 
