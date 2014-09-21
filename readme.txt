@@ -32,6 +32,7 @@ Features
 = Languages =
 
 * nl_NL [Marcel Pol](http://zenoweb.nl)
+* sr_RS [Ogi Djuraskovic] (http://firstsiteguide.com)
 
 == Installation ==
 
@@ -108,6 +109,10 @@ The width of the images is set fixed to 70%, while the titles have 30%.
 3. Admin view when editing a slide (featured post)
 
 == Changelog ==
+
+= 1.0.2 =
+* 2014-09-20
+* Add Serbian Translation
 
 = 1.0.1 =
 * 2014-05-06

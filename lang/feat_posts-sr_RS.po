@@ -1,7 +1,7 @@
-# nl_NL translation of Featured Post Slider.
-# Copyright (C) 2014 Marcel Pol
-# This file is distributed under the same license as the Featured Post Slider package.
-# Marcel Pol ,marcel@zenoweb.nl, 2014.
+# Serbian translation of Black Post Slider.
+# Copyright (C) 2014 Ogi Djuraskovic
+# This file is distributed under the same license as the Black Post Slider.
+# Ogi Djuraskovic 2014.
 #
 msgid ""
 msgstr ""
@@ -10,165 +10,164 @@ msgstr ""
 "POT-Creation-Date: 2014-04-18 12:39+0200\n"
 "PO-Revision-Date: 2014-09-21 12:18+0100\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
-"Language-Team: nl <nl@li.org>\n"
-"Language: nl_NL\n"
+"Language: sr_RS\n"
+"Language-Team: Serbian <SR@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
-"MIME-Version: 1.0\n"
 
 #: featured-post-slider-admin.php:9 featured-post-slider-admin.php:10
 #: featured-post-slider-admin.php:20
 msgid "Featured Posts"
-msgstr "Uitgelichte berichten"
+msgstr "Featured Posts"
 
 #: featured-post-slider-admin.php:11 featured-post-slider-admin.php:12
 #: featured-post-slider-admin.php:14
 msgid "New Featured Post"
-msgstr "Nieuwe Uitgelicht Bericht"
+msgstr "Novi Featured Post"
 
 #: featured-post-slider-admin.php:13
 msgid "Edit Featured Post"
-msgstr "Uitgelicht Bericht Bewerken"
+msgstr "Uredi Featured Post"
 
 #: featured-post-slider-admin.php:15
 msgid "View Featured Post"
-msgstr "Uitgelicht Bericht Bekijken"
+msgstr "Pregledaj Featured Post"
 
 #: featured-post-slider-admin.php:16
 msgid "Search Featured Post"
-msgstr "Zoek Uitgelicht Bericht"
+msgstr "Pretraži Featured Post"
 
 #: featured-post-slider-admin.php:17
 msgid "No Featured Post found"
-msgstr "Geen Uitgelicht Bericht gevonden"
+msgstr "Nije pronađen Featured Post"
 
 #: featured-post-slider-admin.php:18
 msgid "No Featured Posts found in the thrash"
-msgstr "Geen Uitgelichte Berichten gevonden in de prullenbak"
+msgstr "U korpi za otpatke nije pronađen Featured Post"
 
 #: featured-post-slider-admin.php:38 featured-post-slider-admin.php:39
 #: featured-post-slider-admin.php:54
 msgid "Category"
-msgstr "Categorie"
+msgstr "Kategorija"
 
 #: featured-post-slider-admin.php:40
 msgid "Search Category"
-msgstr "Zoek Categorie"
+msgstr "Pretraži kategoriju"
 
 #: featured-post-slider-admin.php:41
 msgid "Popular Categories"
-msgstr "Poulaire Categorieën"
+msgstr "Popularne kategorije"
 
 #: featured-post-slider-admin.php:42
 msgid "All Categories"
-msgstr "Alle Categorieën"
+msgstr "Sve kategorije"
 
 #: featured-post-slider-admin.php:43
 msgid "Parent Category"
-msgstr "Hoofdcategorie"
+msgstr "Nadređena kategorija"
 
 #: featured-post-slider-admin.php:44
 msgid "Edit Category"
-msgstr "Categorie Bewerken"
+msgstr "Uredi kategoriju"
 
 #: featured-post-slider-admin.php:45
 msgid "Update Category"
-msgstr "Categorie Bijwerken"
+msgstr "Ažuriraj kategoriju"
 
 #: featured-post-slider-admin.php:46
 msgid "Add Category"
-msgstr "Categorie Toevoegen"
+msgstr "Dodaj kategoriju"
 
 #: featured-post-slider-admin.php:47
 msgid "New Category"
-msgstr "Nieuwe Categorie"
+msgstr "Nova kategorija"
 
 #: featured-post-slider-admin.php:48
 msgid "Separate Categories with commas"
-msgstr "Scheidt Categorieën met comma's"
+msgstr "Odvoji kategorije zarezima"
 
 #: featured-post-slider-admin.php:49
 msgid "Add or remove Categories"
-msgstr "Categorieën toevoegen of verwijderen"
+msgstr "Dodaj ili ukloni kategorije"
 
 #: featured-post-slider-admin.php:50
 msgid "Choose from the most used Categories"
-msgstr "Kies uit de meest gebruikte Categorieën"
+msgstr "Odaberi među najčešće korišćenim kategorijama"
 
 #: featured-post-slider-admin.php:87
 msgid "Show all in "
-msgstr "Toon allen in"
+msgstr "Sve prikaži u"
 
 #: featured-post-slider-admin.php:121 featured-post-slider-admin.php:376
 msgid "Settings"
-msgstr "Instellingen"
+msgstr "Podešavanja"
 
 #: featured-post-slider-admin.php:122
 msgid "Selected Featured Post"
-msgstr "Geselecteerde Uitgelichte Bericht"
+msgstr "Odabrani Featured Post"
 
 #: featured-post-slider-admin.php:143
 msgid "Delete"
-msgstr "Verwijderen"
+msgstr "Obriši"
 
 #: featured-post-slider-admin.php:155 featured-post-slider-admin.php:178
 msgid "Select"
-msgstr "Selecteren"
+msgstr "Odaberi"
 
 #: featured-post-slider-admin.php:194
 msgid "Select the featured post from the list."
-msgstr "Selecteer het uitgelichte bericht van de lijst."
+msgstr "Odaberi featured post sa liste"
 
 #: featured-post-slider-admin.php:249
 msgid "Featured Post Slider Settings"
-msgstr "Uitgelichte Bericht Slider Instellingen"
+msgstr "Podešavanja slajdera za Featured Post"
 
 #: featured-post-slider-admin.php:258
 msgid "Slider Effect Options"
-msgstr "Slider Effect Opties:"
+msgstr "Opcije efekta slajdera"
 
 #: featured-post-slider-admin.php:262
 msgid "Slide Effect:"
-msgstr "Slide Effect:"
+msgstr "Slide efekat"
 
 #: featured-post-slider-admin.php:281
 msgid "Speed:"
-msgstr "Snelheid:"
+msgstr "Brzina:"
 
 #: featured-post-slider-admin.php:288
 msgid "Timeout:"
-msgstr "Timeout:"
+msgstr "Vremensko ograničenje"
 
 #: featured-post-slider-admin.php:295
 msgid "CSS Options"
-msgstr "CSS Opties"
+msgstr "CSS Opcije"
 
 #: featured-post-slider-admin.php:299
 msgid "Border color:"
-msgstr "Border kleur:"
+msgstr "Boja ivice:"
 
 #: featured-post-slider-admin.php:306
 msgid "Gradient top color:"
-msgstr "Verloop bovenste kleur:"
+msgstr "Boje koje se prelivaju na vrhu"
 
 #: featured-post-slider-admin.php:313
 msgid "Gradient bottom color:"
-msgstr "Verloop onderste kleur:"
+msgstr "Boje koje se prelivaju na dnu"
 
 #: featured-post-slider-admin.php:320
 msgid "Text color:"
-msgstr "Tekstkleur"
+msgstr "Boja teksta"
 
 #: featured-post-slider-admin.php:329
 msgid "Set to Defaults"
-msgstr "Standaardinstellingen"
+msgstr "Podesi na podrazumevane vrednosti"
 
 #: featured-post-slider-admin.php:330
 msgid "Save"
-msgstr "Opslaan"
+msgstr "Sačuvaj"
 
 #: featured-post-slider-frontend.php:76
 msgid "Visit the post: "
-msgstr "Bezoek het bericht: "
+msgstr "Posetite post:"
