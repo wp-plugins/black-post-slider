@@ -4,7 +4,7 @@
 Contributors: mpol
 Tags: featured post, slider, post slider, posts slider, black post
 Requires at least: 3.3
-Tested up to: 4.0
+Tested up to: 4.1
 License: GPLv2 or later
 Stable tag: 1.0.2
 
