@@ -4,9 +4,9 @@
 Contributors: mpol
 Tags: featured post, slider, post slider, posts slider, black post
 Requires at least: 3.3
-Tested up to: 4.0
+Tested up to: 4.1
 License: GPLv2 or later
-Stable tag: trunk
+Stable tag: 1.0.2
 
 A featured post slider that shows post in a slider.
 
@@ -32,7 +32,7 @@ Features
 = Languages =
 
 * nl_NL [Marcel Pol](http://zenoweb.nl)
-* sr_RS [Ogi Djuraskovic] (http://firstsiteguide.com)
+* sr_RS [Ogi Djuraskovic](http://firstsiteguide.com)
 
 == Installation ==
 
@@ -82,7 +82,7 @@ And there's the timeout setting, which is the timeout for the next slide, also i
 
 = How can I customize the CSS? =
 
-In the Settings page you can set the CSS for the border and the background of the titles. 
+In the Settings page you can set the CSS for the border and the background of the titles.
 It accepts webcolors, like "#444" or "white".
 
 = How do I set the height of the slider? =
@@ -98,7 +98,7 @@ div.featured_posts {
 
 = How do I set the width of the slider? =
 
-The width of the whole slider is 100%. That means it takes all your space, or the space of 
+The width of the whole slider is 100%. That means it takes all your space, or the space of
 the outside container.
 The width of the images is set fixed to 70%, while the titles have 30%.
 
