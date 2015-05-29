@@ -50,7 +50,7 @@ You can place the following code in your template file, like header.php:
 	<?php
 		if ( function_exists( 'timelord_featured_post' ) ) {
 			timelord_featured_post();
-	}
+		}
 	?>
 
 If you want to have multiple sliders, you can make categories for the featured posts.
