@@ -6,7 +6,7 @@ Tags: featured post, slider, post slider, posts slider, black post
 Requires at least: 3.3
 Tested up to: 4.2
 License: GPLv2 or later
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 
 A featured post slider that shows post in a slider.
 
