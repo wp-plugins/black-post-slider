@@ -1,0 +1,173 @@
+# Serbian translation of Black Post Slider.
+# Copyright (C) 2014 Ogi Djuraskovic
+# This file is distributed under the same license as the Black Post Slider.
+# Ogi Djuraskovic 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-18 12:39+0200\n"
+"PO-Revision-Date: 2014-09-21 12:18+0100\n"
+"Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
+"Language: sr_RS\n"
+"Language-Team: Serbian <SR@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: featured-post-slider-admin.php:9 featured-post-slider-admin.php:10
+#: featured-post-slider-admin.php:20
+msgid "Featured Posts"
+msgstr "Featured Posts"
+
+#: featured-post-slider-admin.php:11 featured-post-slider-admin.php:12
+#: featured-post-slider-admin.php:14
+msgid "New Featured Post"
+msgstr "Novi Featured Post"
+
+#: featured-post-slider-admin.php:13
+msgid "Edit Featured Post"
+msgstr "Uredi Featured Post"
+
+#: featured-post-slider-admin.php:15
+msgid "View Featured Post"
+msgstr "Pregledaj Featured Post"
+
+#: featured-post-slider-admin.php:16
+msgid "Search Featured Post"
+msgstr "Pretraži Featured Post"
+
+#: featured-post-slider-admin.php:17
+msgid "No Featured Post found"
+msgstr "Nije pronađen Featured Post"
+
+#: featured-post-slider-admin.php:18
+msgid "No Featured Posts found in the thrash"
+msgstr "U korpi za otpatke nije pronađen Featured Post"
+
+#: featured-post-slider-admin.php:38 featured-post-slider-admin.php:39
+#: featured-post-slider-admin.php:54
+msgid "Category"
+msgstr "Kategorija"
+
+#: featured-post-slider-admin.php:40
+msgid "Search Category"
+msgstr "Pretraži kategoriju"
+
+#: featured-post-slider-admin.php:41
+msgid "Popular Categories"
+msgstr "Popularne kategorije"
+
+#: featured-post-slider-admin.php:42
+msgid "All Categories"
+msgstr "Sve kategorije"
+
+#: featured-post-slider-admin.php:43
+msgid "Parent Category"
+msgstr "Nadređena kategorija"
+
+#: featured-post-slider-admin.php:44
+msgid "Edit Category"
+msgstr "Uredi kategoriju"
+
+#: featured-post-slider-admin.php:45
+msgid "Update Category"
+msgstr "Ažuriraj kategoriju"
+
+#: featured-post-slider-admin.php:46
+msgid "Add Category"
+msgstr "Dodaj kategoriju"
+
+#: featured-post-slider-admin.php:47
+msgid "New Category"
+msgstr "Nova kategorija"
+
+#: featured-post-slider-admin.php:48
+msgid "Separate Categories with commas"
+msgstr "Odvoji kategorije zarezima"
+
+#: featured-post-slider-admin.php:49
+msgid "Add or remove Categories"
+msgstr "Dodaj ili ukloni kategorije"
+
+#: featured-post-slider-admin.php:50
+msgid "Choose from the most used Categories"
+msgstr "Odaberi među najčešće korišćenim kategorijama"
+
+#: featured-post-slider-admin.php:87
+msgid "Show all in "
+msgstr "Sve prikaži u"
+
+#: featured-post-slider-admin.php:121 featured-post-slider-admin.php:376
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: featured-post-slider-admin.php:122
+msgid "Selected Featured Post"
+msgstr "Odabrani Featured Post"
+
+#: featured-post-slider-admin.php:143
+msgid "Delete"
+msgstr "Obriši"
+
+#: featured-post-slider-admin.php:155 featured-post-slider-admin.php:178
+msgid "Select"
+msgstr "Odaberi"
+
+#: featured-post-slider-admin.php:194
+msgid "Select the featured post from the list."
+msgstr "Odaberi featured post sa liste"
+
+#: featured-post-slider-admin.php:249
+msgid "Featured Post Slider Settings"
+msgstr "Podešavanja slajdera za Featured Post"
+
+#: featured-post-slider-admin.php:258
+msgid "Slider Effect Options"
+msgstr "Opcije efekta slajdera"
+
+#: featured-post-slider-admin.php:262
+msgid "Slide Effect:"
+msgstr "Slide efekat"
+
+#: featured-post-slider-admin.php:281
+msgid "Speed:"
+msgstr "Brzina:"
+
+#: featured-post-slider-admin.php:288
+msgid "Timeout:"
+msgstr "Vremensko ograničenje"
+
+#: featured-post-slider-admin.php:295
+msgid "CSS Options"
+msgstr "CSS Opcije"
+
+#: featured-post-slider-admin.php:299
+msgid "Border color:"
+msgstr "Boja ivice:"
+
+#: featured-post-slider-admin.php:306
+msgid "Gradient top color:"
+msgstr "Boje koje se prelivaju na vrhu"
+
+#: featured-post-slider-admin.php:313
+msgid "Gradient bottom color:"
+msgstr "Boje koje se prelivaju na dnu"
+
+#: featured-post-slider-admin.php:320
+msgid "Text color:"
+msgstr "Boja teksta"
+
+#: featured-post-slider-admin.php:329
+msgid "Set to Defaults"
+msgstr "Podesi na podrazumevane vrednosti"
+
+#: featured-post-slider-admin.php:330
+msgid "Save"
+msgstr "Sačuvaj"
+
+#: featured-post-slider-frontend.php:76
+msgid "Visit the post: "
+msgstr "Posetite post:"

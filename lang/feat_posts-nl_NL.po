@@ -1,0 +1,174 @@
+# nl_NL translation of Featured Post Slider.
+# Copyright (C) 2014 Marcel Pol
+# This file is distributed under the same license as the Featured Post Slider package.
+# Marcel Pol ,marcel@zenoweb.nl, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-18 12:39+0200\n"
+"PO-Revision-Date: 2014-09-21 12:18+0100\n"
+"Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
+"Language-Team: nl <nl@li.org>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"MIME-Version: 1.0\n"
+
+#: featured-post-slider-admin.php:9 featured-post-slider-admin.php:10
+#: featured-post-slider-admin.php:20
+msgid "Featured Posts"
+msgstr "Uitgelichte berichten"
+
+#: featured-post-slider-admin.php:11 featured-post-slider-admin.php:12
+#: featured-post-slider-admin.php:14
+msgid "New Featured Post"
+msgstr "Nieuwe Uitgelicht Bericht"
+
+#: featured-post-slider-admin.php:13
+msgid "Edit Featured Post"
+msgstr "Uitgelicht Bericht Bewerken"
+
+#: featured-post-slider-admin.php:15
+msgid "View Featured Post"
+msgstr "Uitgelicht Bericht Bekijken"
+
+#: featured-post-slider-admin.php:16
+msgid "Search Featured Post"
+msgstr "Zoek Uitgelicht Bericht"
+
+#: featured-post-slider-admin.php:17
+msgid "No Featured Post found"
+msgstr "Geen Uitgelicht Bericht gevonden"
+
+#: featured-post-slider-admin.php:18
+msgid "No Featured Posts found in the thrash"
+msgstr "Geen Uitgelichte Berichten gevonden in de prullenbak"
+
+#: featured-post-slider-admin.php:38 featured-post-slider-admin.php:39
+#: featured-post-slider-admin.php:54
+msgid "Category"
+msgstr "Categorie"
+
+#: featured-post-slider-admin.php:40
+msgid "Search Category"
+msgstr "Zoek Categorie"
+
+#: featured-post-slider-admin.php:41
+msgid "Popular Categories"
+msgstr "Poulaire Categorieën"
+
+#: featured-post-slider-admin.php:42
+msgid "All Categories"
+msgstr "Alle Categorieën"
+
+#: featured-post-slider-admin.php:43
+msgid "Parent Category"
+msgstr "Hoofdcategorie"
+
+#: featured-post-slider-admin.php:44
+msgid "Edit Category"
+msgstr "Categorie Bewerken"
+
+#: featured-post-slider-admin.php:45
+msgid "Update Category"
+msgstr "Categorie Bijwerken"
+
+#: featured-post-slider-admin.php:46
+msgid "Add Category"
+msgstr "Categorie Toevoegen"
+
+#: featured-post-slider-admin.php:47
+msgid "New Category"
+msgstr "Nieuwe Categorie"
+
+#: featured-post-slider-admin.php:48
+msgid "Separate Categories with commas"
+msgstr "Scheidt Categorieën met comma's"
+
+#: featured-post-slider-admin.php:49
+msgid "Add or remove Categories"
+msgstr "Categorieën toevoegen of verwijderen"
+
+#: featured-post-slider-admin.php:50
+msgid "Choose from the most used Categories"
+msgstr "Kies uit de meest gebruikte Categorieën"
+
+#: featured-post-slider-admin.php:87
+msgid "Show all in "
+msgstr "Toon allen in"
+
+#: featured-post-slider-admin.php:121 featured-post-slider-admin.php:376
+msgid "Settings"
+msgstr "Instellingen"
+
+#: featured-post-slider-admin.php:122
+msgid "Selected Featured Post"
+msgstr "Geselecteerde Uitgelichte Bericht"
+
+#: featured-post-slider-admin.php:143
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: featured-post-slider-admin.php:155 featured-post-slider-admin.php:178
+msgid "Select"
+msgstr "Selecteren"
+
+#: featured-post-slider-admin.php:194
+msgid "Select the featured post from the list."
+msgstr "Selecteer het uitgelichte bericht van de lijst."
+
+#: featured-post-slider-admin.php:249
+msgid "Featured Post Slider Settings"
+msgstr "Uitgelichte Bericht Slider Instellingen"
+
+#: featured-post-slider-admin.php:258
+msgid "Slider Effect Options"
+msgstr "Slider Effect Opties:"
+
+#: featured-post-slider-admin.php:262
+msgid "Slide Effect:"
+msgstr "Slide Effect:"
+
+#: featured-post-slider-admin.php:281
+msgid "Speed:"
+msgstr "Snelheid:"
+
+#: featured-post-slider-admin.php:288
+msgid "Timeout:"
+msgstr "Timeout:"
+
+#: featured-post-slider-admin.php:295
+msgid "CSS Options"
+msgstr "CSS Opties"
+
+#: featured-post-slider-admin.php:299
+msgid "Border color:"
+msgstr "Border kleur:"
+
+#: featured-post-slider-admin.php:306
+msgid "Gradient top color:"
+msgstr "Verloop bovenste kleur:"
+
+#: featured-post-slider-admin.php:313
+msgid "Gradient bottom color:"
+msgstr "Verloop onderste kleur:"
+
+#: featured-post-slider-admin.php:320
+msgid "Text color:"
+msgstr "Tekstkleur"
+
+#: featured-post-slider-admin.php:329
+msgid "Set to Defaults"
+msgstr "Standaardinstellingen"
+
+#: featured-post-slider-admin.php:330
+msgid "Save"
+msgstr "Opslaan"
+
+#: featured-post-slider-frontend.php:76
+msgid "Visit the post: "
+msgstr "Bezoek het bericht: "
