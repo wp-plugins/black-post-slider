@@ -110,6 +110,10 @@ The width of the images is set fixed to 70%, while the titles have 30%.
 
 == Changelog ==
 
+= 1.0.3 =
+* 2015-05-29
+* Fix loading on Firefox the first time.
+
 = 1.0.2 =
 * 2014-09-20
 * Add Serbian Translation
