@@ -47,16 +47,20 @@ Features
 
 You can place the following code in your template file, like header.php:
 
-if ( function_exists( 'timelord_featured_post' ) ) {
-	timelord_featured_post();
-}
+	<?php
+		if ( function_exists( 'timelord_featured_post' ) ) {
+			timelord_featured_post();
+	}
+	?>
 
 If you want to have multiple sliders, you can make categories for the featured posts.
 Then use the slug of the category as a parameter for the functioncall:
 
-if ( function_exists( 'timelord_featured_post' ) ) {
-	timelord_featured_post('frontpage');
-}
+	<?php
+		if ( function_exists( 'timelord_featured_post' ) ) {
+			timelord_featured_post('frontpage');
+		}
+	?>
 
 This will show all the featured posts from the frontpage category.
 
